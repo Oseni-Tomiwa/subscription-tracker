@@ -1,19 +1,24 @@
-Initial project setup
+# Subscription Tracker API
 
-Configure Express server
+A production-ready REST API for managing subscriptions.
 
-Create MongoDB connection
+## Features
 
-Implement user authentication
+- User Authentication (JWT)
+- Secure Password Hashing
+- CRUD Subscription Management
+- MongoDB Database
+- Automated Email Reminders
+- Error Handling
+- Deployment Ready
 
-Create subscription model
+## Tech Stack
 
-Build subscription CRUD endpoints
-
-Add JWT authorization
-
-Implement email reminders
-
-Deploy application
-
-Update documentation
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+- bcrypt
+- Upstash
+- Nodemailer
