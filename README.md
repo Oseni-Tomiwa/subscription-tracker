@@ -1,2 +1,19 @@
-# subscription-tracker
-A production-ready Subscription Management REST API built with Node.js, Express, MongoDB, JWT authentication, automated email reminders, and secure backend architecture.
+Initial project setup
+
+Configure Express server
+
+Create MongoDB connection
+
+Implement user authentication
+
+Create subscription model
+
+Build subscription CRUD endpoints
+
+Add JWT authorization
+
+Implement email reminders
+
+Deploy application
+
+Update documentation
